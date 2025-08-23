@@ -1,4 +1,4 @@
-# Lab-3: Exercises – Model Answers - Traffic Light FSM 
+# Lab-13: Exercises – Model Answers - Traffic Light FSM 
 
 ## Exercises and Solutions
 
