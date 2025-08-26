@@ -30,5 +30,4 @@ The following labs build progressively from FPGA tool setup to advanced design a
 
 ---
 
-## Acknowledgement
 This answer model is part of the FPGA and Digital Design Laboratory Series, designed to provide students with **hands-on experience** in digital systems and hardware design.
